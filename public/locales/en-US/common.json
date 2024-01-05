@@ -13,8 +13,8 @@
     "languageDrawer": "Toggle language drawer"
   },
   "footer": {
-    "aboutUs": "about us",
-    "description": "Our company specialises in the development of advanced technologies for a wide range of industries. We use cutting-edge techniques and algorithms to create intelligent systems that can help businesses automate tasks, improve efficiency, and drive innovation.",
+    "aboutUs": "about me",
+    "description": "Welcome to Angularify! I'm Mikolaj Cieslinski, a seasoned front-end developer specializing in Angular with over 7 years of hands-on experience. Here, I share insights, tips, and the latest trends in Angular development. Join me on this journey as we explore the world of front-end coding together!",
     "powerBy": "Powered by"
   },
   "notFound": {
